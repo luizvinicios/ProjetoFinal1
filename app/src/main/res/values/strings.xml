@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ProjetoFinal1</string>
+    <string name="action_settings">Settings</string>
+    <string name="cd_et_name">Nome</string>
+    <string name="cd_et_last_name">Último nome</string>
+    <string name="cd_et_graduation">Graduação</string>
+    <string name="cd_et_weight">Peso</string>
+    <string name="cd_et_cellphone">Celular</string>
+    <string name="cd_et_born_date">Data de nascimento</string>
+    <string name="cd_rb_masculino">Masculino</string>
+    <string name="cd_rb_feminino">Feminino</string>
+    <string name="cd_bt_cadastrar">Cadastrar</string>
+</resources>
