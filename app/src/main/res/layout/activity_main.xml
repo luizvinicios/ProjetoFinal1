@@ -29,7 +29,7 @@
         android:layout_gravity="bottom|end"
         android:layout_margin="@dimen/fab_margin"
         android:background="@color/blue500"
-        app:backgroundTint="@color/indigoA400"
-        app:srcCompat="@android:drawable/arrow_up_float" />
+        app:backgroundTint="@color/blue500"
+        app:srcCompat="@android:drawable/ic_menu_add"/>
 
 </android.support.design.widget.CoordinatorLayout>
